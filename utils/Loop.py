@@ -50,5 +50,5 @@ class LoopThrough:
                 f.close()
                 
         print("Successfully Scraped")
-        print("Run the filter.py to apply filters and view the results")
+        print("Run the filters.py to apply filters and view the results")
         print()
